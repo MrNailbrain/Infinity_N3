@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<dataIndex battleScribeVersion="2.01" name="InfinityN3" xmlns="http://www.battlescribe.net/schema/dataIndexSchema">
+  <repositoryUrls/>
+  <dataIndexEntries>
+    <dataIndexEntry filePath="Infinity_N3.gstz" dataType="gamesystem" dataId="9d5b-fad2-e807-62ae" dataName="Infinity N3" dataBattleScribeVersion="2.01" dataRevision="2"/>
+    <dataIndexEntry filePath="MilitaryOrders.catz" dataType="catalogue" dataId="9368-3cf4-a463-413e" dataName="Military Orders" dataBattleScribeVersion="2.01" dataRevision="2"/>
+    <dataIndexEntry filePath="PanOceania.catz" dataType="catalogue" dataId="ba6c-dd33-b791-2a46" dataName="PanOceania" dataBattleScribeVersion="2.01" dataRevision="2"/>
+    <dataIndexEntry filePath="ShockArmyofAcontecimento.catz" dataType="catalogue" dataId="bff4-0cba-e5ba-74db" dataName="Shock Army of Acontecimento" dataBattleScribeVersion="2.01" dataRevision="2"/>
+    <dataIndexEntry filePath="NeoterranCapitalineArmy.catz" dataType="catalogue" dataId="7643-f247-5bf1-366c" dataName="Neoterran Capitaline Army" dataBattleScribeVersion="2.01" dataRevision="2"/>
+  </dataIndexEntries>
+</dataIndex>
