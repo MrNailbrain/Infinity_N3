@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<dataIndex battleScribeVersion="2.01" name="InfinityN3" xmlns="http://www.battlescribe.net/schema/dataIndexSchema">
+<dataIndex battleScribeVersion="2.01" name="InfinityN3" indexUrl="https://github.com/MrNailbrain/Infinity_N3/blob/master/index.bsi" xmlns="http://www.battlescribe.net/schema/dataIndexSchema">
   <repositoryUrls/>
   <dataIndexEntries>
     <dataIndexEntry filePath="Infinity_N3.gstz" dataType="gamesystem" dataId="9d5b-fad2-e807-62ae" dataName="Infinity N3" dataBattleScribeVersion="2.01" dataRevision="2"/>
